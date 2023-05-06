@@ -1,0 +1,3 @@
+/home/kingk20k/c++122/CMakeFiles/MyOpenGLProject.dir
+/home/kingk20k/c++122/CMakeFiles/edit_cache.dir
+/home/kingk20k/c++122/CMakeFiles/rebuild_cache.dir

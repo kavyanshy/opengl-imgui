@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 CMakeFiles/MyOpenGLProject.dir/main.cpp.o -o MyOpenGLProject  -lglad -lglfw 
